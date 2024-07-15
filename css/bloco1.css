@@ -1,0 +1,27 @@
+.bloco1{
+    padding:2rem;
+    background-color: white;
+}
+
+.corCiano{
+    color: var(--ciano);
+}
+
+.textoBloco1{
+    color: var(--verdeAmarelado);
+}
+
+.texto2Bloco1{
+    color: var(--azulCinza);
+    line-height: 1.6;
+}
+
+.espaco{
+    margin-top: 1.2rem;
+}
+
+@media (min-width:1440px){
+    .bloco1{
+        grid-column: 1/3;
+    }
+}

@@ -1,0 +1,34 @@
+.corpo{
+    background-color:  var(--cinzaClaro);
+    font-size: 16px;
+    font-family: var(--fontePrincipal);
+}
+
+.bloco{
+    background-color: aliceblue;
+    margin: 3rem 2rem;
+}
+
+.titulo{
+ font-weight: 700;
+ font-size: 18px;
+}
+
+.texto{
+    font-weight: 700;
+}
+
+@media (min-width: 1440px) {
+
+    .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 55vw;
+}
+    
+    .corpo{
+        margin: 10vw 20vw;
+    }
+
+}
+

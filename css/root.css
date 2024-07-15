@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+:root {
+    --cinzaClaro: hsl(204, 43%, 93%);
+    --verdeAmarelado: hsl(71, 73%, 54%);
+    --ciano: hsl(179, 62%, 43%);
+    --ciano2: hsl(179, 47%, 52%);
+    --azulCinza: hsl(218, 22%, 67%);
+    --fontePrincipal: 'Karla', sans-serif;
+}

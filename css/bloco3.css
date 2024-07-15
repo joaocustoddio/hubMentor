@@ -1,0 +1,18 @@
+.bloco3 {
+    padding: 1rem 2rem;
+    background-color: var(--verdeAmarelado);
+}
+
+.corBloco3 {
+    padding: 2rem;
+    background-color: var(--ciano2);
+}
+
+.espaco1 {
+    margin-top: 20px;
+}
+
+.cor {
+    color: var(--cinzaClaro);
+    line-height: 1.6rem;
+}

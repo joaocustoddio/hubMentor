@@ -1,0 +1,45 @@
+.bloco2 {
+    padding: 2rem;
+    background-color: var(--ciano);
+}
+
+.corBloco2 {
+    color: var(--cinzaClaro);
+}
+
+.fonteDollar {
+    font-size: 36px;
+}
+
+.fonteFraca {
+    color: var(--cinzaClaro);
+    font-weight: 100;
+    margin-top: 0.7rem;
+}
+
+.ajuntar{
+    display: flex;
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+
+
+
+.botao {
+    text-align: center;
+    padding: 1rem;
+    background-color: var(--verdeAmarelado);
+    border-radius: 5px;
+}
+
+.decoracao {
+    text-decoration: none;
+    color: white;
+}
+
+@media (min-width:1440px){
+    .gridBloco2{
+        grid-column:1/2;
+    }
+}
